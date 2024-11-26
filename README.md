@@ -17,7 +17,7 @@ As an alternative, you can also download dataset_real.csv and dataset_images_as_
 
 FOR TRELEW'S ANALYSIS,
 
-Download the images1103_TRW.csv and/or explore the notebook "newfigs_REMAKE_OG_FINAL_1103_V6DISPLAY_ML_TO_ISI_OUTPUT.ipynb"
+Download the images1103_TRW.csv and/or explore the notebook "newfigs_REMAKE_OG_FINAL_1103_V6DISPLAY_ML_TO_ISI_OUTPUT.ipynb". You will find this in the main Google Drive folder.
 
 You are free to download and modify the code and/or databases to improve its efficiency or for any other purpose you see fit.
 
