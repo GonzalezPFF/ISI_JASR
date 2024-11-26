@@ -1,7 +1,8 @@
 # ISI_JASR
 Ionospheric Spectral Imager, simulations of quiet conditions and ML algorithms
 
-FOR THE SIMULATIONS,
+
+**FOR THE SIMULATIONS,**
 
 First extract the output-30.dat ... output-45.dat datafiles created from LFSM LWA1 model (Dowell et al., 2017) from the following link
 
@@ -15,7 +16,8 @@ to create the simulated databases based on the LFSM (Dowell et al., 2017) output
 
 As an alternative, you can also download dataset_real.csv and dataset_images_as_columns.csv to explore and/or reproduce the Jupyter notebooks (.ipynb) attached in the main Google Drive folder.
 
-FOR TRELEW'S ANALYSIS,
+
+**FOR TRELEW'S ANALYSIS,**
 
 Download the images1103_TRW.csv and/or explore the notebook "newfigs_REMAKE_OG_FINAL_1103_V6DISPLAY_ML_TO_ISI_OUTPUT.ipynb". You will find this in the main Google Drive folder.
 
