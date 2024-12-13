@@ -7,6 +7,7 @@ Ionospheric Spectral Imager, simulations of quiet conditions and ML algorithms
 First extract the output-30.dat ... output-45.dat datafiles created from LFSM LWA1 model (Dowell et al., 2017) from the following link
 
 https://drive.google.com/drive/folders/12iOMVQonEKwAM1kxTg91WnBbR4jcktms?usp=drive_link
+(MAIN GOOGLE DRIVE FOLDER)
 
 Then, execute the .py files 
 
@@ -19,7 +20,9 @@ As an alternative, you can also download dataset_real.csv and dataset_images_as_
 
 **FOR TRELEW'S ANALYSIS,**
 
-Download the images1103_TRW.csv and/or explore the notebook "newfigs_REMAKE_OG_FINAL_1103_V6DISPLAY_ML_TO_ISI_OUTPUT.ipynb". You will find this in the main Google Drive folder.
+For the day of the geomagnetic storm, download the file "images1103_TRW.csv" and/or explore the notebook "newfigs_REMAKE_OG_FINAL_1103_V6DISPLAY_ML_TO_ISI_OUTPUT.ipynb". You can find these in the main Google Drive folder.
+
+If you want to explore the analysis of principal components for other days before or after March 11, 2015, you can download the corresponding "imagesXXXX_TRW.csv" files from this branch and visit the "pca_TRW_XXXX.ipynb" notebooks stored in the "TRELEW_pca" folder within the main Google Drive folder.
 
 You are free to download and modify the code and/or databases to improve its efficiency or for any other purpose you see fit.
 
