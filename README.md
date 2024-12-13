@@ -23,7 +23,7 @@ As an alternative, you can also download dataset_real.csv and dataset_images_as_
 
 For the day of the geomagnetic storm, download the file "images1103_TRW.csv" and/or explore the notebook "newfigs_REMAKE_OG_FINAL_1103_V6DISPLAY_ML_TO_ISI_OUTPUT.ipynb". You can find these in the main Google Drive folder.
 
-If you want to explore the analysis of principal components for other days before or after March 11, 2015, you can download the corresponding "imagesXXXX_TRW.csv" files from this branch and visit the "pca_TRW_XXXX.ipynb" notebooks stored in the "TRELEW_pca" folder within the main Google Drive folder.
+If you want to explore the analysis of principal components for other days before or after March 11, 2015, you can download the corresponding "imagesXXXX_TRW.csv" files and visit the "pca_TRW_XXXX.ipynb" notebooks stored in the "TRELEW_pca" folder within the main Google Drive folder.
 
 You are free to download and modify the code and/or databases to improve its efficiency or for any other purpose you see fit.
 
