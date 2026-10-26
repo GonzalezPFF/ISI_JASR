@@ -30,3 +30,10 @@ You are free to download and modify the code and/or databases to improve its eff
 Feel free to contact me at pegonzalez2018@udec.cl for further details or assistance with using these resources.
 
 Best of luck and regards!
+
+UPDATE 26-10-2026; new e-mail pedro.gonzalez.so@usach.cl;
+additionally I uploaded two new master-notebooks for cleanly executing the whole dimred-clustering analysis. New cleaner figures than before. ATTENTION: For running properly the codes, you should need to use the images_1103.csv and g13_xrs_1m_20150301_20150331.csv ; this last one you can download from https://www.ngdc.noaa.gov/stp/satellite/goes/ because it is publicly available, but published by NOAA NCEI. 
+
+Regards,
+
+P
